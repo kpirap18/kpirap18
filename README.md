@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there <img src="https://media3.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="80">
+ 
 <center>
       <div>
                   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kpirap18&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
