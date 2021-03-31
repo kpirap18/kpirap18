@@ -1,4 +1,4 @@
-### Hi there <img src="https://media3.giphy.com/media/xsE65jaPsUKUo/giphy.gif" width="80">
+### Hi there <img src="https://media.giphy.com/media/mFSlq2cgOGCnp3jkdo/giphy.gif" width="80">
  
 <center>
       <div>
