@@ -7,26 +7,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kpirap18&theme=gotham&show_icons=true&count_private=true)
 ![Top langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kpirap18&theme=gotham&layout=compact)
 
-<!-- ![C](https://img.shields.io/badge/c-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=blue)
--->
-
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+
 </p>
-  
-<!--
-**kpirap18/kpirap18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
