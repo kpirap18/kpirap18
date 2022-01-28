@@ -1,6 +1,8 @@
 ### Hi there ✨☀ 
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/k_ira_18)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/k_ira_18/)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kpirap18&theme=gotham&show_icons=true&count_private=true)
 ![Top langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kpirap18&theme=gotham&layout=compact)
