@@ -12,8 +12,10 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=blue)
 -->
 
+<p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-
+</p>
+  
 <!--
 **kpirap18/kpirap18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
