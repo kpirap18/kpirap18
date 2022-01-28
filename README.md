@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/k_ira_18)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kpirap18&theme=gotham&show_icons=true&count_private=true)
-![Top langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kpirap18&theme=vue&layout=compact)
+![Top langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kpirap18&theme=gotham&layout=compact)
 
 ![C](https://img.shields.io/badge/c-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
