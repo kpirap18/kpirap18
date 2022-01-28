@@ -2,7 +2,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/k_ira_18)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kpirap18&theme=black&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kpirap18&theme=gotham&show_icons=true&count_private=true)
 ![Top langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=kpirap18&layout=compact)
 
 ![C](https://img.shields.io/badge/c-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
