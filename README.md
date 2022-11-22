@@ -1,8 +1,5 @@
 ### Hello ☀ 
 
-<img src="https://komarev.com/ghpvc/?username=kpirap18&style=flat-square&color=orange" alt=""/>
-
-
 <!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/k_ira_18)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/k_ira_18/)
 -->
@@ -20,3 +17,5 @@
     <!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a> -->
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=kpirap18&style=flat-square&color=orange" alt=""/>
